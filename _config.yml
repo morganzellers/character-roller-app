@@ -34,11 +34,11 @@ mastodon_link                             : https://mastodon.social/@m0rgabyte
 
 
 # Feature List                            Edit, add or remove features to be presented.
-# features                                  :
+features                                  :
 
-#   - title                                 : Votes
-#     description                           : See recent votes from the Senate and the House of Representatives.
-#     fontawesome_icon_name                 : list
+  - title                                 : Character Generator
+    description                           : Generate random characters for both players and non-players with deep backstories and lore-friendly names
+    fontawesome_icon_name                 : users
     
 #   - title                                 : Bills
 #     description                           : See new bills as they are introduced to congress.
